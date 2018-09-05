@@ -1,2 +1,2 @@
-# Week-3-Homework
-Hangman Week 3 Homeowrk
+# Hangman-game
+Homework Assignment #3 for Berkeley Coding Bootcamp
